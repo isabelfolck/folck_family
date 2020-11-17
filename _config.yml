@@ -12,7 +12,7 @@ url: https://isabelfolck.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /folckfamily
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/isabelfolck/folckfamily
 
 ##########
 # SITE SETTINGS
@@ -20,10 +20,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Folck Family Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: personal historical photographs related to the Folck Family of Angola Indiana
+tagline: Personal historical photographs related to the Folck family of Angola Indiana
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The Folck Family personal photograph collection"
+description: "The Folck family personal photograph collection"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: IsabelFolck
 
